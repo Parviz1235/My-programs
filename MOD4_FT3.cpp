@@ -40,7 +40,7 @@ int main(){
 		printf("\t%.2f", n_pos);
 	}
 	
-	printf("\nNumeros positivos: ");
+	printf("\nNumeros negativos: ");
 	
 		for(i = 0; i < contador1; i++)
 	{
